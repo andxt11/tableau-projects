@@ -13,7 +13,7 @@ This repository is intended to showcase my data visualization work using Tableau
 
 ## 🌐 View Dashboards on Tableau Public
 Visit my Tableau Public profile to interact with all dashboards:  
-👉 [Your Tableau Public Link](https://public.tableau.com/app/profile/ananya.dikshit/vizzes)
+👉 (https://public.tableau.com/app/profile/ananya.dikshit/vizzes)
 
 ## 🛠️ Tools Used
 - Tableau Desktop / Tableau Public
