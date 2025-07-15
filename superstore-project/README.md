@@ -35,8 +35,12 @@ Order Details Table – Scrollable, paginated table for granular exploration
 Inspired by the Tableau #DataFam community and learning from amazing creators like:
 
 Andy Kriebel
+
 Dennis Kao
+
 Prasann Prem
-Kevin Shreya Arya
+
+Shreya Arya
+
 Toan Hoang
 ---------------------------------------
