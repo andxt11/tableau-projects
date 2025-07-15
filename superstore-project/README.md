@@ -26,10 +26,14 @@ KPI Metrics – Total Orders, Avg Orders/Month, Avg Days to Ship, Max Monthly Or
 Trend Charts – Monthly Orders and Monthly Shipping Days visualization
 Top States by Orders – Tooltip-enriched bar chart showing state-wise and city-wise order patterns
 Order Details Table – Scrollable, paginated table for granular exploration
+
 🔗 Tableau Public
-📍 [View the Dashboard on Tableau Public]https://public.tableau.com/app/profile/ananya.dikshit/viz/SuperstoreSalesandOrdersDashboard-TheBarChartWay/Dashboard2
+📍 [View the Dashboard on Tableau Public]
+
 🙏 Credits & Acknowledgments
+
 Inspired by the Tableau #DataFam community and learning from amazing creators like:
+
 Andy Kriebel
 Dennis Kao
 Prasann Prem
