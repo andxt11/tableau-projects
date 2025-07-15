@@ -28,7 +28,7 @@ Top States by Orders – Tooltip-enriched bar chart showing state-wise and city-
 Order Details Table – Scrollable, paginated table for granular exploration
 
 🔗 Tableau Public
-📍 [View the Dashboard on Tableau Public]
+📍 [View the Dashboard on Tableau Public]((https://public.tableau.com/app/profile/ananya.dikshit/viz/SuperstoreSalesandOrdersDashboard-TheBarChartWay/Dashboard2))
 
 🙏 Credits & Acknowledgments
 
