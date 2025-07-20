@@ -2,6 +2,16 @@
 
 A comprehensive Tableau dashboard project that visualizes sales and order metrics from the popular Sample – Superstore dataset. Designed with a focus on bar chart storytelling, toggle functionality, and a clean user interface inspired by Figma.
 
+# Superstore Sales and Orders Dashboard
+
+A Tableau dashboard project built using the classic Superstore dataset, focused on visualizing sales and order metrics through various bar chart styles and interactivity.
+
+🏆 Recognition
+
+- 🎉 Selected as **Viz of the Day (VOTD)** by **Tableau Public** – 17 July 2025  
+- 📢 Featured on [LinkedIn](https://www.linkedin.com/posts/ananyadikshit_datafam-tableau-dataviz-activity-7342939029551620096-vtkS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADST_8EBhUxbm7fK8KAoS20ze_XbVL_dDDM) with community engagement from Tableau Visionaries  
+- 📸 [Click here](./screenshots/linkedin_votd_post.png) to view the LinkedIn announcement screenshot
+
 🎯 Project Objective
 
 To showcase interactive and visually intuitive dashboards that explore key business insights such as sales performance, shipping behavior, customer segmentation, and profitability across the US — all using bar chart-driven layouts.
