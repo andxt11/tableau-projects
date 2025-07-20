@@ -1,10 +1,6 @@
-📊 Superstore Sales & Orders Dashboard – The Power of Bars
+# 📊 Superstore Sales and Orders Dashboard- The Bar Chart Way
 
-A comprehensive Tableau dashboard project that visualizes sales and order metrics from the popular Sample – Superstore dataset. Designed with a focus on bar chart storytelling, toggle functionality, and a clean user interface inspired by Figma.
-
-# Superstore Sales and Orders Dashboard
-
-A Tableau dashboard project built using the classic Superstore dataset, focused on visualizing sales and order metrics through various bar chart styles and interactivity.
+A comprehensive Tableau dashboard project that visualizes sales and order metrics from the popular Sample – Superstore dataset. Designed with a focus on bar chart storytelling, toggle functionality, and a clean user interface. 
 
 🏆 Recognition
 
