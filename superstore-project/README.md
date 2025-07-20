@@ -10,7 +10,7 @@ A Tableau dashboard project built using the classic Superstore dataset, focused 
 
 - 🎉 Selected as **Viz of the Day (VOTD)** by **Tableau Public** – 17 July 2025  
 - 📢 Featured on [LinkedIn](https://www.linkedin.com/posts/ananyadikshit_datafam-tableau-dataviz-activity-7342939029551620096-vtkS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADST_8EBhUxbm7fK8KAoS20ze_XbVL_dDDM) with community engagement from Tableau Visionaries  
-- 📸 [Click here](./screenshots/linkedin_votd_post.png) to view the LinkedIn announcement screenshot
+- 📸 [Click here](https://www.linkedin.com/posts/tableau-software_vizoftheday-activity-7351234276555702273-h066?utm_source=share&utm_medium=member_desktop&rcm=ACoAADST_8EBhUxbm7fK8KAoS20ze_XbVL_dDDM) to view the LinkedIn announcement. 
 
 🎯 Project Objective
 
