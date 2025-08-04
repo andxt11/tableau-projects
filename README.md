@@ -20,6 +20,4 @@ Visit my Tableau Public profile to interact with all dashboards:
 - Excel / CSV for data
 - GitHub for documentation
   
------
-
-
+------
