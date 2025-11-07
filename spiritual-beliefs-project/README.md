@@ -31,6 +31,9 @@ IF MAX([Orbit - Colors Religiously Affiliated]) = 1 THEN
     + STR(ROUND(MAX([Are religiously affiliated]),0)) + "%"
 END
 
+Orbit - % Complete horoscope: 
+WINDOW_AVG(SUM([Say they consult a fortune teller, horoscope or other way to see the future])) / 100
+
 🛠️ Tools Used
 
 Tableau Public
