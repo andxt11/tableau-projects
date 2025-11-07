@@ -43,3 +43,4 @@ Makeover Monday — Week 27, 2025
 
 Ananya D
 📌 Tableau Public: https://public.tableau.com/app/profile/ananya.dikshit/vizzes
+📌 Link to the Spiritual Beliefs Viz : https://public.tableau.com/app/profile/ananya.dikshit/viz/SpiritualReligiousBeliefsMakeoverMonday2025Week27/Dashboard
