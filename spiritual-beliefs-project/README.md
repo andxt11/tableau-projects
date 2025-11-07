@@ -1,5 +1,6 @@
-🌍 Spiritual & Religious Beliefs 
-#MakeoverMonday – Week 27, 2025
+### **🌍 Spiritual & Religious Beliefs**
+
+**#MakeoverMonday – Week 27, 2025**
 
 This visualization explores how much of the population across different countries of the world identifies as religiously affiliated, having belief in life after death, belief in nature's spiritual energies, praying daily and belief in horoscopes. The circular orbit layout represents each region’s percentage share using filled vs. unfilled points — making comparisons intuitive and visually engaging.
 
@@ -43,4 +44,5 @@ Makeover Monday — Week 27, 2025
 
 Ananya D
 📌 Tableau Public: https://public.tableau.com/app/profile/ananya.dikshit/vizzes
+
 📌 Link to the Spiritual Beliefs Viz : https://public.tableau.com/app/profile/ananya.dikshit/viz/SpiritualReligiousBeliefsMakeoverMonday2025Week27/Dashboard
