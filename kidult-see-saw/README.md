@@ -33,5 +33,5 @@ Tableau Desktop
 Figma (for icons and visual assets)
 
 View the Viz:
-🔗 The Kidult Balance on Tableau Public
- (Add your link once published)
+🔗 The Kidult See-Saw on Tableau Public
+ https://public.tableau.com/app/profile/ananya.dikshit/viz/TheKidultSee-SawMakeoverMonday2025Week38/KidultSee-Saw
