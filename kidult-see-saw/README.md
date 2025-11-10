@@ -19,9 +19,11 @@ Design Approach:
 
 Built in Tableau using dual-axis see-saws for each category.
 
-X-axis (0 to 1) represents the balance between child and adult perceptions.
+The 50% baseline represents the neutral midpoint — a balance between childlike and adult perceptions.
 
-Dashboard layout: playful yet balanced — echoing the theme of generational contrasts.
+Values below the baseline (e.g., 65%) lean more toward “childish,” while values above (e.g., 30–40%) indicate a stronger “adult” association.
+
+Dashboard layout is designed to be playful yet structured — mirroring the balance theme of the visualization.
 
 Dataset:
 Makeover Monday 2025 – Week 38: “What do different age groups consider childish?”
