@@ -28,12 +28,12 @@ Dashboard layout is designed to be playful yet structured — mirroring the bala
 *Dataset*:
 Makeover Monday 2025 – Week 38: “What do different age groups consider childish?”
 
-Tools Used:
+*Tools Used*:
 
 📈 Tableau Desktop
 
 🎨 Figma (for icons and visual assets)
 
-View the Viz:
+*View the Viz*:
 🔗 The Kidult See-Saw on Tableau Public
  https://public.tableau.com/app/profile/ananya.dikshit/viz/TheKidultSee-SawMakeoverMonday2025Week38/KidultSee-Saw
