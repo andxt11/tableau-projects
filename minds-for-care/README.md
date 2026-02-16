@@ -2,6 +2,10 @@
 
 A Tableau visualization exploring how mental-health concern levels have shifted across 31 countries from 2020 to 2024. Built for the Back 2 Viz Basics (B2VB) community challenge, this dashboard uses a heatmap to highlight year-over-year patterns, disparities, and rising global awareness. 
 
+**🏆Recognition**
+
+This visualization received Viz of the Day recognition on 12 November 2025, highlighting its impact, design quality, and storytelling.
+
 **📊 About the Visualization** 
 
 This viz focuses on how people across different nations perceive mental health as one of the biggest health concerns.
